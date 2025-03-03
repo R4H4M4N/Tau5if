@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **trtanvir371@gmail.com**
 
-- 📄 Know about my experiences (https://drive.google.com/drive/u/1/my-drive)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1ozLJi7Lv1Ef7TDPuIhzep8UXOpMuEb_-/view?usp=share_link)
 
 - ⚡ Fun fact **cs is not for lazy people**
 
