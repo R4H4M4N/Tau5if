@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r4h4m4n" alt="r4h4m4n" /></a> </p>
 
+
+
+![Image](https://github.com/user-attachments/assets/d18d112c-1e8c-49dc-b488-c000ae20913a)"
+
 - 🔭 I’m currently working on **Assum Pullum Express**
 
 - 🌱 I’m currently learning **Networking, java script and html in first year of uni**
