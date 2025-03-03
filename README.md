@@ -9,11 +9,11 @@
 
 ![Image](https://github.com/user-attachments/assets/d18d112c-1e8c-49dc-b488-c000ae20913a)"
 
-- 🔭 I’m currently working on **Assum Pullum Express**
+- 🔭 I’m currently working on **University Projects at UOW, Australia**
 
 - 🌱 I’m currently learning **Networking, java script and html in first year of uni**
 
-- 👯 I’m looking to collaborate on **A Detailed Systems Analysis**
+- 👯 I’m looking to collaborate on **Interesting projects that suits us**
 
 - 👨‍💻 All of my projects are available at my upcoming website
 
@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences (https://drive.google.com/file/d/1ozLJi7Lv1Ef7TDPuIhzep8UXOpMuEb_-/view?usp=share_link)
 
-- ⚡ Fun fact **cs is not for lazy people**
+- ⚡ Fun fact **Computer science is not for lazy people**
 
 - ⏳ Year Progress { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 5.73 % as on ⏰ 3-Mar-2025
 
