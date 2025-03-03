@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **trtanvir371@gmail.com**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1ozLJi7Lv1Ef7TDPuIhzep8UXOpMuEb_-/view?usp=share_link)
+- 📄 Know about my experiences (https://shorturl.at/K5hdd)
 
 - ⚡ Fun fact **Computer science is not for lazy people**
 
